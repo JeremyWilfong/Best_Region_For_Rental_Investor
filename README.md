@@ -4,7 +4,7 @@
 - Investor Client wants to know which cities in the United States have the best rental property investment opportunity.
 
 **SOLUTION:** 
-- Created a Tableau Dashboard showing which cities had the best GRM (Gross Rent Multiplier) and cities that met the 1% rule (Rental Income/Sales Price). **Indiana, PA and Blacksburn, VA are two of the best cities to look for rental properties in.**
+- Created a Tableau Dashboard showing which cities had the best GRM (Gross Rent Multiplier) and cities that met the 1% rule (Rental Income/Sales Price). **Indiana, PA and Blacksburn, VA are two of the best cities to potentially buy a property to rent out.**
 - **Here is the Tableau Dashboard for [Top 20 Cities in the US](https://public.tableau.com/views/BestRegionsforRentalInvestors/TopRegions?:language=en-US&:display_count=n&:origin=viz_share_link)**
 - **Here is the Tableau Dashboard for [Top Cities in Each State](https://public.tableau.com/views/BestRegionsPerStateforRentalInvestors/AllRegions?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
 
