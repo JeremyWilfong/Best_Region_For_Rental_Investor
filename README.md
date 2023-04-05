@@ -1,6 +1,6 @@
 # Rental Investment Project
 
-**PROBLEM:** 
+**GOAL:** 
 - Investor Client wants to know which cities in the United States have the best rental property investment opportunity.
 
 **SOLUTION:** 
