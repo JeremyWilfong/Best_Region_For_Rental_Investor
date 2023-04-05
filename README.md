@@ -5,9 +5,8 @@
 
 **SOLUTION:** 
 - Created a Tableau Dashboard showing which cities had the best GRM (Gross Rent Multiplier) and cities that met the 1% rule (Rental Income/Sales Price) based on the Median Rental Income and Median Sales Price Data of each city downloaded from Zillow. 
-- **Indiana, PA and Blacksburn, VA are two of the best cities for purchasing a property to rent out.**
-- **Here is the Tableau Dashboard for [Top 20 Cities in the US](https://public.tableau.com/views/BestRegionsforRentalInvestors/TopRegions?:language=en-US&:display_count=n&:origin=viz_share_link)**
-- **Here is the Tableau Dashboard for [Top Cities in Each State](https://public.tableau.com/views/BestRegionsPerStateforRentalInvestors/AllRegions?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
+- **Indiana, PA and Blacksburn, VA are two cities that met the 1% rule.**
+- **Here is the Tableau Dashboard for [Best Regions for Rental Investors](https://public.tableau.com/views/BestRegionsforRentalInvestors/TopRegions?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
 **SKILLS USED:** 
 - Excel for Forecasting and Initial Data Cleaning. 
